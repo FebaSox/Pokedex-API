@@ -1,5 +1,5 @@
 import React from 'react';
-import PokePage from './Assets/Components/PokePage';
+import PokePage from './assets/Components/PokePage';
 import './App.css';
 
 function App() {
